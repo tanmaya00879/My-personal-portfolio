@@ -1,4 +1,4 @@
-[![Header](https://img.shields.io/badge/Portfolio-Mohit's%203D%20Showcase-brightgreen?style=for-the-badge)](https://mohit-singh-rajput.vercel.app/)
+
 
 # Tanmaya Kumar Mishra 3D Portfolio Showcase 🌟
 
