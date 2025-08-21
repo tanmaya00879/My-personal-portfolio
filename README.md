@@ -8,15 +8,12 @@ Welcome to my creative corner on the web! 🚀 As a fresher student passionate a
 
 Hey there! I'm Tanmaya Kumar Mishra, an Software Engineer and a Web developer with a penchant for turning ideas into visually captivating experiences. Armed with a vivid imagination and a deep curiosity for all things three-dimensional, I'm on a mission to breathe life into pixels and polygons. My passion for 3D design goes beyond the screen – I aim to create virtual realms that leave a lasting impact.
 
-## 🌐 Explore More
-
-Ready to experience my 3D portfolio? Head over to [mohit-singh-rajput.vercel.app](https://mohit-singh-rajput.vercel.app/) and let the visuals speak for themselves!
 
 ## 📫 Let's Connect
 
 I'm always excited to connect with fellow creatives and enthusiasts. Whether you have feedback, project ideas, or just want to say hi, feel free to reach out to me:
 
-- Email: mohit.s.rajput032997@gmail.com
-- LinkedIn: [linkedin.com/in/mohitsinghrajput](https://www.linkedin.com/in/mohitsinghrajput)
+- Email: tanmayakumarmishra5@gmail.com
+- LinkedIn: [(https://www.linkedin.com/in/tanmaya-kumar-mishra-3b0663272/))
 
 Let's turn imagination into reality, one pixel at a time! ✨
