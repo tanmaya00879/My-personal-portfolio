@@ -17,3 +17,18 @@ I'm always excited to connect with fellow creatives and enthusiasts. Whether you
 - LinkedIn: [(https://www.linkedin.com/in/tanmaya-kumar-mishra-3b0663272/))
 
 Let's turn imagination into reality, one pixel at a time! ✨
+
+
+ ##   Tech Stack Used : -
+
+Languages
+HTML
+CSS
+JavaScript ES6
+
+## Framework
+Node.Js
+
+## Libraries
+ReactJS
+
