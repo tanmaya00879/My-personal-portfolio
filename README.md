@@ -30,5 +30,21 @@ JavaScript ES6
 Node.Js
 
 ## Libraries
+   
 ReactJS
+
+## design outlet
+
+<img width="1878" height="927" alt="image" src="https://github.com/user-attachments/assets/0c960757-c50b-495d-bfe8-0ca366c063b2" />
+
+<img width="1873" height="922" alt="image" src="https://github.com/user-attachments/assets/b9c70f45-a29e-4e76-9ac4-caa81870c065" />
+
+ <img width="1876" height="921" alt="image" src="https://github.com/user-attachments/assets/03a280a9-c3c6-4cb3-bb9b-7eee6ab295bc" />
+
+<img width="1890" height="648" alt="image" src="https://github.com/user-attachments/assets/26f145f6-55ef-4905-b648-683721217d4c" />
+
+<img width="1886" height="925" alt="image" src="https://github.com/user-attachments/assets/4ddf2c37-c14a-450c-8851-2c78785dcb0d" />
+
+<img width="1887" height="913" alt="image" src="https://github.com/user-attachments/assets/64be960b-9742-4e5a-9442-caef5bb27fed" />
+
 
