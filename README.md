@@ -15,6 +15,7 @@ I'm always excited to connect with fellow creatives and enthusiasts. Whether you
 
 - Email: tanmayakumarmishra5@gmail.com
 - LinkedIn: [(https://www.linkedin.com/in/tanmaya-kumar-mishra-3b0663272/))
+- netlify - tanmaya-portfolio69.netlify.app/
 
 Let's turn imagination into reality, one pixel at a time! ✨
 
